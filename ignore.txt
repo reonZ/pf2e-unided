@@ -1,0 +1,8 @@
+ignore.txt
+.gitignore 
+*.lock 
+release.bat 
+jsconfig.json 
+\.git 
+\releases 
+*\@types
