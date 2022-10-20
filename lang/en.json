@@ -2,12 +2,12 @@
     "pf2e-unided": {
         "settings": {
             "create": {
-                "Name": "Set On Create",
-                "Hint": "Should the un-identified image be set for newly created or imported item."
+                "Name": "Set on Create",
+                "Hint": "Should the un-identified image be set for newly created or imported items."
             },
             "update": {
-                "Name": "Set On Update",
-                "Hint": "Should the un-identified image be set when the image of an item is update."
+                "Name": "Set on Update",
+                "Hint": "Should the un-identified image be set when the image of an item is updated."
             }
         }
     }
