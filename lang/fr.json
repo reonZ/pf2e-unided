@@ -1,0 +1,14 @@
+{
+    "pf2e-unided": {
+        "settings": {
+            "create": {
+                "Hint": "L'image non identifié devrait être fixée pour les objets nouvellement créés ou importés.",
+                "Name": "Fixer sur créer"
+            },
+            "update": {
+                "Hint": "L'image devrait elle être fixée lorsque l'image d'un objet est mis à jour.",
+                "Name": "Fixer sur mise à jour"
+            }
+        }
+    }
+}
