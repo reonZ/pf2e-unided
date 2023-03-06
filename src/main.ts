@@ -37,7 +37,7 @@ function setUpdateHook(value: boolean) {
 
 function onPreCreateItem(item: Item) {
     const itemPF2e = item as ItemPF2e
-    if (!item.img || !itemPF2e.isOfType('physical')) return
+    if (!itemPF2e.img || !itemPF2e.isOfType('physical')) return
     itemPF2e._source.system.identification.unidentified.img = item.img
 }
 
