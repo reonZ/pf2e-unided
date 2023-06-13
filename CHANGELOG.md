@@ -1,3 +1,7 @@
+# 1.2.0
+
+-   compatible with v11
+
 # 1.1.0
 
 -   added french localization (thanks to [rectulo](https://github.com/rectulo))
