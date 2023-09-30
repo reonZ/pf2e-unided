@@ -1,11 +1,3 @@
-# FoundryVTT PF2e Unided
+# FoundryVTT PF2e Unided (No Longer Maintained)
 
-This small module offers two options to set the un-indentified image of an item to be the same as regular image when:
-
--   An item is created or imported into the world
-
--   An item's image is updated
-
-# CHANGELOG
-
-You can see the changelog [HERE](./CHANGELOG.md)
+### The module is no longer maintained and is now part of another module called `PF2e Toolbelt`
